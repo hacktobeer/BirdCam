@@ -6,7 +6,7 @@ See [wiki](https://github.com/hacktobeer/BirdCam/wiki) for details.
 
 As a side project my son and I decided to build a bird nest box with a camera. We wanted to include day and night vision, live Youtube streaming, motion detection and the automatic notification and uploading of pictures and videos to Google Photos when activity is detected in the nest box. 
 Hardware used for this project:
-- Home made wooden nest box
+- Home made wooden nest box (build with his grandad!)
 - Raspberry Pi 3 B+
 - Golbong HD IR camera 4901
 - TP-Link SmartPlug HS100
